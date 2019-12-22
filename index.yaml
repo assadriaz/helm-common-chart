@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  common:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2019-12-22T22:43:47.67442+01:00"
+    description: A Helm chart for Kubernetes
+    digest: 9cf1e5162f1095a2e313fef91e8665177e80a7ca85e5a94cc897d454926a2a2d
+    name: common
+    urls:
+    - https://assadriaz.github.io/helm-common-chart/common-0.1.0.tgz
+    version: 0.1.0
+generated: "2019-12-22T22:43:47.673897+01:00"
