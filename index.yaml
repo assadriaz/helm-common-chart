@@ -3,11 +3,22 @@ entries:
   common:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2019-12-22T22:43:47.67442+01:00"
+    created: "2021-12-07T23:02:31.561838+01:00"
     description: A Helm chart for Kubernetes
     digest: 9cf1e5162f1095a2e313fef91e8665177e80a7ca85e5a94cc897d454926a2a2d
     name: common
     urls:
-    - https://assadriaz.github.io/helm-common-chart/common-0.1.0.tgz
+    - common-0.1.0.tgz
     version: 0.1.0
-generated: "2019-12-22T22:43:47.673897+01:00"
+  mylibchart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-12-07T23:02:31.56252+01:00"
+    description: A Helm chart for Kubernetes
+    digest: 0653122d72472398d70815875a5ae07902eba70e5704582c6d55f4f8c4a6ccad
+    name: mylibchart
+    type: library
+    urls:
+    - mylibchart-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-12-07T23:02:31.56054+01:00"
