@@ -3,22 +3,22 @@ entries:
   common:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-12-07T23:02:31.561838+01:00"
+    created: "2021-12-08T13:32:40.885818+01:00"
     description: A Helm chart for Kubernetes
     digest: 9cf1e5162f1095a2e313fef91e8665177e80a7ca85e5a94cc897d454926a2a2d
     name: common
     urls:
     - common-0.1.0.tgz
     version: 0.1.0
-  mylibchart:
+  common-configmap:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-12-07T23:02:31.56252+01:00"
+    created: "2021-12-08T13:32:40.886086+01:00"
     description: A Helm chart for Kubernetes
-    digest: 0653122d72472398d70815875a5ae07902eba70e5704582c6d55f4f8c4a6ccad
-    name: mylibchart
+    digest: 3b1ce9d040c240bd90ece5534a5607d3f37a0b87625fbf33b26a4a907010d012
+    name: common-configmap
     type: library
     urls:
-    - mylibchart-0.1.0.tgz
+    - common-configmap-0.1.0.tgz
     version: 0.1.0
-generated: "2021-12-07T23:02:31.56054+01:00"
+generated: "2021-12-08T13:32:40.880112+01:00"
